@@ -1,5 +1,8 @@
 _repo: Dave-Dashaway-and-His-Hydroplane--Or-Daring-Adventures-over-the-Great-Lake_6714
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6714#Dave-Dashaway-and-His-Hydroplane--Or-Daring-Adventures-over-the-Great-Lake
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
